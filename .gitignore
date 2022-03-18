@@ -1,0 +1,12 @@
+django_venv/
+
+config/config/__pycache__/
+config/todo/__pycache__/
+config/__pycache__/
+config/config/settings.py
+config/config/wsgi.py
+config/config/asgi.py
+config/wsgi.py
+config/asgi.py
+config/db.sqlite3
+config/manage.py
